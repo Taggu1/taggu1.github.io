@@ -3,15 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ccfe947500e2d229e6845b98a46f49a0",
+  "assets/AssetManifest.json": "5d19b268473f466e0afbf64bbe8ecf4a",
 "assets/assets/english.jpg": "e81dd78c1e70e1a8958c90a3499ac86a",
 "assets/assets/Flutter.png": "e31f1c20d27c4415bce49ca10cc44ba1",
+"assets/assets/flutter_logo.jpg": "33318678e1f00d8c27e32b68c5b44b80",
+"assets/assets/flutter_logo.png": "f159c959f42dd1c470f0b3beca7d740a",
 "assets/assets/Habito-logo.jpeg": "ea046c79a45082f19b55d95cad1e8a31",
 "assets/assets/Japanese-language.jpg": "6f87200908edfb3e33ceeb339b6ea377",
 "assets/assets/noto_icon.jpg": "3bfc5887745124d8953b4c35ec3337a7",
 "assets/assets/photo.jpg": "eb25b1abe734efe98c329fa0de6f58ff",
 "assets/assets/photo.png": "02d10feedc809dca0dc6ff2613073590",
+"assets/assets/Python-logo.jpg": "a4f6e4f62f1dffcffc928efea3c3ca1a",
 "assets/assets/python.png": "c5e3c2f5e09713ea7bc42a4231401a16",
+"assets/assets/python_logo.jpg": "ae136bab9d1a838bd50aa38ff727f3ae",
 "assets/assets/quran_app_logo.png": "ac9ccb851ab4630f8f2aefc6e803e715",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
@@ -27,9 +31,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "742239cdc4e700b2f2fb618344537d2d",
-"/": "742239cdc4e700b2f2fb618344537d2d",
-"main.dart.js": "1b8e08c5cab480f89f4e821babd04137",
+"index.html": "ac235499e7cbefb890da742370d52c78",
+"/": "ac235499e7cbefb890da742370d52c78",
+"main.dart.js": "4bdf97cdc1574e89567aa0a5d5db8207",
 "manifest.json": "2ca0cdbd863af9e25840266e2bb71a0c",
 "version.json": "03c286f0bf893c16a099ce90c2315635"
 };
