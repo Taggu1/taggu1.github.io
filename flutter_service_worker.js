@@ -3,10 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4928ef8380d3aede67ff5653d5e13a6b",
+  "assets/AssetManifest.json": "ccfe947500e2d229e6845b98a46f49a0",
+"assets/assets/english.jpg": "e81dd78c1e70e1a8958c90a3499ac86a",
+"assets/assets/Flutter.png": "e31f1c20d27c4415bce49ca10cc44ba1",
+"assets/assets/Habito-logo.jpeg": "ea046c79a45082f19b55d95cad1e8a31",
+"assets/assets/Japanese-language.jpg": "6f87200908edfb3e33ceeb339b6ea377",
 "assets/assets/noto_icon.jpg": "3bfc5887745124d8953b4c35ec3337a7",
 "assets/assets/photo.jpg": "eb25b1abe734efe98c329fa0de6f58ff",
 "assets/assets/photo.png": "02d10feedc809dca0dc6ff2613073590",
+"assets/assets/python.png": "c5e3c2f5e09713ea7bc42a4231401a16",
+"assets/assets/quran_app_logo.png": "ac9ccb851ab4630f8f2aefc6e803e715",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/NOTICES": "02e4beb02793a300744bd705434be39b",
@@ -21,9 +27,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "22a0589c16d622cef0611403a139425f",
-"/": "22a0589c16d622cef0611403a139425f",
-"main.dart.js": "be815223f465c28e9cbda9c54a522e06",
+"index.html": "742239cdc4e700b2f2fb618344537d2d",
+"/": "742239cdc4e700b2f2fb618344537d2d",
+"main.dart.js": "1b8e08c5cab480f89f4e821babd04137",
 "manifest.json": "2ca0cdbd863af9e25840266e2bb71a0c",
 "version.json": "03c286f0bf893c16a099ce90c2315635"
 };
