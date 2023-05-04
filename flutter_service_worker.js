@@ -19,7 +19,7 @@ const RESOURCES = {
 "assets/assets/quran_app_logo.png": "ac9ccb851ab4630f8f2aefc6e803e715",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "02e4beb02793a300744bd705434be39b",
+"assets/NOTICES": "99459aebe4955b639b5886b717855073",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -31,9 +31,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e4fb9ecf9872adcd030fa02e4896ce3b",
-"/": "e4fb9ecf9872adcd030fa02e4896ce3b",
-"main.dart.js": "047260a46cfb80093cbae0244e1e5cd4",
+"index.html": "3e8977ab45fdc965d0c3d5959813ccf4",
+"/": "3e8977ab45fdc965d0c3d5959813ccf4",
+"main.dart.js": "e360a2fcb5a7c12b4b4b237749481e60",
 "manifest.json": "2ca0cdbd863af9e25840266e2bb71a0c",
 "version.json": "03c286f0bf893c16a099ce90c2315635"
 };
