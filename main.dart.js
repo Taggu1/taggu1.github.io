@@ -11040,7 +11040,7 @@ if(d2==null)q=c9
 else q=d2
 if(q==null)q=B.a4
 p=q===B.ai
-o=p?B.wQ:B.dy
+o=p?B.wS:B.dy
 n=A.a1Q(o)
 m=p?B.wY:B.lb
 l=p?B.m:B.eu
@@ -59126,7 +59126,7 @@ if(q<1090)q=new A.d7(B.xG,A.zM(this.Ao(0,q,!0),B.bo,B.qL),null)
 else{s=s>610?s:580
 q=A.zM(A.a([new A.d7(B.xA,new A.i4(new A.aC(0,1/0,580,s),A.a9W(this.Ao(0,q,!1),B.bo,B.qL,B.dv),null),null)],t.F),B.bo,B.ck)}return q},
 Ao(a,b,c){var s=this,r=b*0.32,q=s.d,p=s.gnH(s),o=s.gnI(s)
-return A.a([A.a9v(B.wS,q,c,r,p,o,B.xY,0,!1,"Biography"),A.a9v(B.wV,q,c,r,p,o,B.xZ,1,!1,"Skills"),A.a9v(B.wU,q,c,r,p,o,B.y_,2,!0,"Projects")],t.F)},
+return A.a([A.a9v(B.wP,q,c,r,p,o,B.xY,0,!1,"Biography"),A.a9v(B.wU,q,c,r,p,o,B.xZ,1,!1,"Skills"),A.a9v(B.wR,q,c,r,p,o,B.y_,2,!0,"Projects")],t.F)},
 a_8(a,b){A.km("s")
 this.aw(new A.a3Y(this,b))},
 a_9(a){this.aw(new A.a3Z(this))}}
@@ -59246,7 +59246,7 @@ A.EZ.prototype={
 O(a){var s=this,r=null,q=s.d,p=q?500:50,o=A.kv(17)
 if(q){q=s.a.c
 q=new A.d7(B.xF,A.aeu("Experienced in "+q.c+" with "+A.h(q.a)+" of Experience",r,r,r,r,r,r,r,B.FL,r,r,r),r)}else q=r
-return A.tf(new A.mF(B.ec,r,r,new A.d7(B.xz,A.uZ(B.bO,A.a([A.abY(q,new A.fS(B.wX,r,r,o,r,r,B.bj),B.a1,50,p),A.OU(A.kv(16),new A.zJ(new A.RE(A.aL(B.c.bm(76.5),108,112,134),B.v9,r,B.wC),A.TE(s.a.c.b,B.eI,B.ef,50,50),r))],t.F),B.S,B.cI),r),r),B.bU,new A.a0s(s),new A.a0t(s),r)}}
+return A.tf(new A.mF(B.ec,r,r,new A.d7(B.xz,A.uZ(B.bO,A.a([A.abY(q,new A.fS(B.wW,r,r,o,r,r,B.bj),B.a1,50,p),A.OU(A.kv(16),new A.zJ(new A.RE(A.aL(B.c.bm(76.5),69,71,90),B.v9,r,B.wC),A.TE(s.a.c.b,B.eI,B.ef,50,50),r))],t.F),B.S,B.cI),r),r),B.bU,new A.a0s(s),new A.a0t(s),r)}}
 A.a0s.prototype={
 $1(a){var s=this.a
 s.aw(new A.a0r(s))},
@@ -61868,9 +61868,9 @@ B.l5=new A.T(4278879487)
 B.l4=new A.T(4278206685)
 B.l8=new A.T(4282424575)
 B.Lf=new A.ew(B.et,"systemBlue",null,B.et,B.l5,B.l4,B.l8,B.et,B.l5,B.l4,B.l8,0)
-B.wP=new A.T(4280032286)
-B.wR=new A.T(4280558630)
-B.Lh=new A.ew(B.i,"systemBackground",null,B.i,B.m,B.i,B.m,B.i,B.wP,B.i,B.wR,0)
+B.wQ=new A.T(4280032286)
+B.wT=new A.T(4280558630)
+B.Lh=new A.ew(B.i,"systemBackground",null,B.i,B.m,B.i,B.m,B.i,B.wQ,B.i,B.wT,0)
 B.bW=new A.T(4042914297)
 B.cW=new A.T(4028439837)
 B.Lj=new A.ew(B.bW,null,null,B.bW,B.cW,B.bW,B.cW,B.bW,B.cW,B.bW,B.cW,0)
@@ -61924,18 +61924,18 @@ B.x=new A.T(3019898879)
 B.wK=new A.T(4039164096)
 B.wL=new A.T(4278239141)
 B.wN=new A.T(4279308571)
+B.wP=new A.T(4279769125)
 B.eu=new A.T(4279858898)
+B.wR=new A.T(4280163886)
 B.cX=new A.T(4280191205)
-B.wQ=new A.T(4280361249)
+B.wS=new A.T(4280361249)
 B.l6=new A.T(4280391411)
 B.l7=new A.T(4281348144)
-B.wS=new A.T(4281414212)
+B.wU=new A.T(4281414212)
 B.ev=new A.T(4282532418)
-B.wU=new A.T(4282730330)
-B.wV=new A.T(4283980656)
+B.wW=new A.T(4282730330)
 B.ew=new A.T(4284572001)
 B.l9=new A.T(4284809178)
-B.wX=new A.T(4285296774)
 B.ex=new A.T(4287679225)
 B.wY=new A.T(4288585374)
 B.lb=new A.T(4290502395)
@@ -63160,11 +63160,11 @@ B.Dq=new A.eO(B.a3,B.dH)
 B.tB=new A.eO(B.q,B.tA)
 B.Ch=new A.bJ([B.dT,B.w7,B.dK,B.kl,B.Ew,B.kl,B.Ef,B.vz,B.Eg,B.vY,B.Eh,B.w5,B.dN,B.Dp,B.dO,B.Dn,B.dR,B.Do,B.dS,B.Dq,B.cG,B.tB,B.cH,B.js],t.xM)
 B.Ci=new A.t3(null,null,null,null,null,null,null,null)
-B.wW=new A.T(4284790262)
-B.wT=new A.T(4282557941)
+B.wX=new A.T(4284790262)
+B.wV=new A.T(4282557941)
 B.wO=new A.T(4279592384)
 B.wM=new A.T(4279060385)
-B.BW=new A.bJ([50,B.lf,100,B.lb,200,B.ex,300,B.wW,400,B.wT,500,B.l6,600,B.cX,700,B.eu,800,B.wO,900,B.wM],A.a_("bJ<p,T>"))
+B.BW=new A.bJ([50,B.lf,100,B.lb,200,B.ex,300,B.wX,400,B.wV,500,B.l6,600,B.cX,700,B.eu,800,B.wO,900,B.wM],A.a_("bJ<p,T>"))
 B.dy=new A.Cc(B.BW,4280391411)
 B.bv=new A.dG(0,"hovered")
 B.fn=new A.dG(1,"focused")
